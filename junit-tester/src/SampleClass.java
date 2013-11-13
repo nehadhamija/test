@@ -14,5 +14,6 @@ public class SampleClass {
 	public String getLower()	{
 		return s.toLowerCase();
 		//lower case 
+		//so cool
 	}
 }
